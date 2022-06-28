@@ -7,4 +7,4 @@ else
 	mkdir ./"$1"
 	touch ./"$1"/main."$2"
 fi
-code ./"$1"
+code ./"$1"/main.$2
