@@ -1,0 +1,1 @@
+sed -n '5p' file.txt
