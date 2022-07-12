@@ -2,6 +2,7 @@
 101. Symmetric Tree
 13. Roman to Integer
 144. Binary Tree Preorder Traversal
+145. Binary Tree Postorder Traversal
 1461. Check If a String Contains All Binary Codes of Size K
 15. 3Sum
 167. Two Sum II - Input Array Is Sorted

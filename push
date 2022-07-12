@@ -8,5 +8,5 @@ echo $message | cut -c7-
 read in
 mv Questions2.txt Questions.txt
 git add .
-git commit -m '"$message"'
+git commit -m "$message"
 git push origin main
