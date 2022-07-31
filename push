@@ -4,7 +4,7 @@ ls | grep "^[0-9]" > Questions2.txt
 f1="Questions.txt"
 f2="Questions2.txt"
 message=`diff Questions.txt Questions2.txt`
-message=`echo $message | cut -c7-`
+message=`echo $message | cut -d">" -f2`
 mv Questions2.txt Questions.txt
 git add .
 git commit -m "$message"

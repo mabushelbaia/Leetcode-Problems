@@ -1,6 +1,7 @@
 100. Same Tree
 101. Symmetric Tree
 125. Valid Palindrome
+136. Single Number
 13. Roman to Integer
 144. Binary Tree Preorder Traversal
 145. Binary Tree Postorder Traversal
